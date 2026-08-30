@@ -12,7 +12,7 @@ public class Aula03TiposprimitivosExercicios {
         double Salario = 2555.76;
         String data = "02/01/2026";
 
-        System.out.println("eu "+nome+", morando no endereço "+endereço+", confirmo que recebi o salário de "+Salario+", na data "+data );
+        System.out.println("eu "+nome+", estou morando no endereço de "+endereço+", confirmo que recebi o salário de "+Salario+", na data "+data );
 
 
     }
